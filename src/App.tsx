@@ -120,7 +120,7 @@ function App() {
   const roles = ['Software Engineerring Student', 'Full-Stack Developer', 'Bass guitarist']
   const [theme, setTheme] = useState(() => {
     const savedTheme = localStorage.getItem('theme')
-    return savedTheme || 'light'
+    return savedTheme || 'dark'
   })
 
   useEffect(() => {
