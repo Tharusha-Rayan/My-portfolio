@@ -356,7 +356,7 @@ function App() {
                 <Icons.ArrowRight />
                 View Projects
               </a>
-              <a href="/Tharusha Rayan.pdf" className="btn btn-secondary" download>
+              <a href="/TharushaRayan.pdf" className="btn btn-secondary" download>
                 <Icons.Download />
                 View Resume
               </a>
